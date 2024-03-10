@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class bubbleSortRecursion {
+public class bubbleSelectionSortRecursion {
     public static void main(String[] args) {
         int[] arr = {1, 4, 3, 5};
         bubble(arr,arr.length-1,0);
